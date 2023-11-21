@@ -1,5 +1,20 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
+# Access this dataset
+
+This repository is stored with XetHub.
+
+Install the extension from https://github.com/xetdata/xet-tools/releases
+
+Then just git clone the repository as normal.
+
+## Mount
+
+Run this command to quickly mount this repostory on your machine:
+```
+git-xet mount [repo]
+```
+
 # ONNX Model Zoo
 
 [Open Neural Network Exchange (ONNX)](http://onnx.ai) is an open standard format for representing machine learning models. ONNX is supported by a community of partners who have implemented it in many frameworks and tools.
