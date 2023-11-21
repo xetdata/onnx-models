@@ -1,18 +1,28 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
-# Access this dataset
+# Access this repository
 
-This repository is stored with XetHub.
+This repository adds models and data to the [original ONNX repository](https://github.com/onnx/models). 
 
-Install the extension from https://github.com/xetdata/xet-tools/releases
+**➡️ Install the [XetData integration for GitHub](https://github.com/apps/xetdata) to work with this repository.**
 
-Then just git clone the repository as normal.
+- Once installed, see links to [Netron](https://github.com/lutzroeder/netron) views of each Xet-managed model from within GitHub.
+- Use normal commands like `git clone`, `git add` to develop.
+- Or try our fancy [lazy clone command](https://xethub.com/assets/docs/large-repos/lazy-clone) to only download what you are interested in.
+- Let XetData automatically handle large files without any extra tracking commands!
 
-## Mount
+You can also browse the [full ONNX model zoo repository on XetHub](https://xethub.com/XetHub/onnx-models) for built-in model views and [advanced Python and CLI access patterns](https://xethub.com/assets/docs/category/pyxet).
 
-Run this command to quickly mount this repostory on your machine:
+## Mount this repository
+
+After installing the [Git-Xet extension](https://xethub.com/assets/docs/getting-started/install#git-xet-installation), you can run this command to quickly read-only mount this repository on your machine:
 ```
-git-xet mount [repo]
+git xet mount [repo]
+```
+
+Unmount with:
+```
+umount [repo_folder]
 ```
 
 # ONNX Model Zoo
