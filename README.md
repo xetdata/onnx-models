@@ -1,17 +1,20 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
+# ONNX Model Zoo, now with models and data!
+
 This repository adds models and data to the [original ONNX repository](https://github.com/onnx/models). 
 
 **➡️ Install the [XetData integration for GitHub](https://github.com/apps/xetdata) to work with this repository.**
 
-- Once installed, see links to [Netron](https://github.com/lutzroeder/netron) views of each Xet-managed model from within GitHub.
-- Use normal commands like `git clone`, `git add` to develop.
-- Or try our fancy [lazy clone command](https://xethub.com/assets/docs/large-repos/lazy-clone) to only download the files you're interested in.
-- Let XetData automatically handle large files without any extra tracking commands!
-
 ![netron-demo](https://github.com/xetdata/onnx-models/assets/1296134/7d5fbab7-61c0-4755-b1db-bd72b580a491)
 
-You can also browse the [full ONNX model zoo repository on XetHub](https://xethub.com/XetHub/onnx-models) for built-in model views and [advanced Python and CLI access patterns](https://xethub.com/assets/docs/category/pyxet).
+
+- See links to [Netron](https://github.com/lutzroeder/netron) views of each Xet-managed model from within GitHub.
+- Use normal commands like `git clone`, `git add` to develop.
+- Or try our fancy [lazy clone command](https://xethub.com/assets/docs/large-repos/lazy-clone) to only download the files you're interested in.
+  
+
+Browse the [full ONNX model zoo on XetHub](https://xethub.com/XetHub/onnx-models) for built-in model views and [Python/CLI access](https://xethub.com/assets/docs/category/pyxet).
 
 ## Mount this repository
 
@@ -25,7 +28,9 @@ Unmount with:
 umount [repo_folder]
 ```
 
-# ONNX Model Zoo
+----
+
+# Original ONNX README
 
 [Open Neural Network Exchange (ONNX)](http://onnx.ai) is an open standard format for representing machine learning models. ONNX is supported by a community of partners who have implemented it in many frameworks and tools.
 
