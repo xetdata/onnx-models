@@ -5,9 +5,7 @@
 This repository adds models and data to the [original ONNX repository](https://github.com/onnx/models). 
 
 **➡️ Install the [XetData integration for GitHub](https://github.com/apps/xetdata) to work with this repository.**
-
-![netron-demo](https://github.com/xetdata/onnx-models/assets/1296134/7d5fbab7-61c0-4755-b1db-bd72b580a491)
-
+![netron-demo](https://github.com/xetdata/onnx-models/assets/1296134/9503630c-82ae-43ff-97fe-b38d92964b10)
 
 - See links to [Netron](https://github.com/lutzroeder/netron) views of each Xet-managed model from within GitHub.
 - Use normal commands like `git clone`, `git add` to develop.
